@@ -1,0 +1,11 @@
+service_call,months_since_last_service,type_of_repair,repair_time_in_hours
+1,2,e,2.9
+2,6,m,3
+3,8,e,4.8
+4,3,m,1.8
+5,2,e,2.9
+6,7,e,4.9
+7,9,m,4.2
+8,8,m,4.8
+9,4,e,4.4
+10,6,e,4.5
